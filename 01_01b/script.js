@@ -35,6 +35,9 @@ const Card = (data) => {
             <span class="image__photog">${imgData.user.name}</span>.
           </p>
           <p>
+          REM Put date uploaded here.
+          </p>
+          <p>
             <a href="${imgData.links.self}" class="image__link">
               View it on Unsplash.
             </a>
